@@ -1,0 +1,14 @@
+intents:
+  - how_much
+  - how_many
+
+responses:
+  utter_how_much:
+  - text: "how_much"
+
+  utter_how_many:
+  - text: "how_many"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,65 @@
+## intent:how_much
+- apparels ?
+- amount spent on dresses?
+- clothing spent?
+- how much did i paid for buying clothes on last 5 months
+- what is my debits on clothing in the last one month
+- coffee ?
+- amount spent on coffee?
+- coffee spent?
+- how much did i paid for coffee on last 15 days
+- what is my debits on coffee in the last one month
+- food ?
+- amount spent on food?
+- food expense?
+- amount on restaurants?
+- amount on eating out?
+- how much did i paid for food on last 5 months
+- what is my debits on food in the last two month
+- how much government tax did i paid in last 5 months
+- govt tax ?
+- what is my debits on govt tax in the last one month?
+- tax ?
+- amount spent on tax?
+- tax deductions?
+- amount on taxes ?
+- taxi ?
+- amount spent on taxi?
+- taxi uasge?
+- what is my bills on taxi in the last one month
+- spent on taxis?
+- how much did i paid for travelling using taxis on last 3 months
+
+
+## intent:how_many
+- times on apparels ?
+- how frequently I spent on clothes?
+- clothing expenses frequency?
+- how many times did i paid for buying clothes on last 5 months
+- Number of debits on clothing in the last one month
+- coffee times?
+- coffee frequency?
+- how many coffee?
+- times I spent on coffee?
+- times on coffee?
+- How many times I drank coffee on the last 15 days
+- How frequently I had coffee in the last one month
+- food out nos.?
+- times spent on dineout?
+- times went out for restaurant?
+- how frequently did i paid for food on last 5 months
+- how many times I spent on food in the last two month
+- how many times did i pay government tax in last 5 months
+- govt tax nos?
+- What is my frequency of my govt tax deductions in the last one month?
+- tax deduction frequency?
+- how frequently I am being taxed?
+- no. of taxes ?
+- taxi times?
+- times spent on taxi?
+- taxi frequency?
+- taxi nos.?
+- how many times did I took taxi in the last one month
+- no. of taxis?
+- how frequently did i paid for travelling on taxis in the last 3 months
+
